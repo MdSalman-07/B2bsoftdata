@@ -1,0 +1,175 @@
+@media only screen and (max-width:1024px){
+	#main_area{
+		margin-bottom: 0;
+	}
+	#footer{
+		position: relative;
+	}
+}
+@media only screen and (max-width: 991px) and (min-width: 768px){ 
+	.navbar-default .navbar-nav > li > a{
+		margin-left: 24px;
+	}
+	.single_slide_text h1{
+		font-size: 50px;
+	}
+	.single_feature{
+		margin-bottom: 30px;
+	}
+	.ris_pb_30{
+		padding-bottom: 30px;
+	}
+	.ris_pb_70{
+		padding-bottom: 70px;
+	}
+	.single_counter{
+		margin-bottom: 30px;
+	}
+	.our_port_menu {
+		margin: 0 15%;
+		margin-bottom: 50px;
+	}
+	.single_team{
+		margin-bottom: 30px;
+	}
+	.pricingTable{
+        margin-bottom: 30px;
+    }
+	.post-slide{
+		margin-bottom: 30px;
+	}
+	.single_footer{
+		margin-bottom: 30px;
+	}
+	
+}
+
+@media only screen and (max-width: 767px) and (min-width: 480px) { 
+	.navbar-default .navbar-nav > li > a{
+		color: #4d6de6;
+	}
+	.navbar-default .navbar-toggle {
+		color: #4d6de6;
+	}
+	nav#navbar{
+		background: #fff none repeat scroll 0 0;
+		padding-bottom: 15px;
+		padding-right: 15px;
+		padding-top: 15px;
+		position: absolute;
+		right: 15px;
+		text-align: center;
+		top: 53px;
+		width: 280px;
+	}
+	.single_slide_text h1{
+		font-size: 45px;
+	}
+	.carousel-control{
+		display: none;
+	}
+	.single_feature{
+		margin-bottom: 30px;
+	}
+	.single_counter{
+		margin-bottom: 30px;
+	}
+	.ris_pb_30{
+		padding-bottom: 30px;
+	}
+	.ris_mb7_30{
+		margin-bottom: 30px;
+	}
+	.ris_pb_70{
+		padding-bottom: 70px;
+	}
+	.our_port_menu {
+		margin: 0 15%;
+		margin-bottom: 50px;
+	}
+	.single_team{
+		margin-bottom: 30px;
+	}
+	.pricingTable{
+        margin-bottom: 30px;
+    }
+	.post-slide{
+		margin-bottom: 30px;
+	}
+	.single_footer{
+		margin-bottom: 30px;
+	}
+}
+@media only screen and (max-width: 360px) and (min-width: 320px){
+	.navbar-default{
+		border: none;
+	}
+	.navbar-default .navbar-nav > li > a{
+		color: #4d6de6;
+	}
+	.navbar-default .navbar-toggle {
+		color: #4d6de6;
+	}
+	nav#navbar{
+		background: #fff none repeat scroll 0 0;
+		padding-bottom: 15px;
+		padding-right: 15px;
+		padding-top: 15px;
+		position: absolute;
+		right: 15px;
+		text-align: center;
+		top: 53px;
+		width: 280px;
+	}
+	.single-slide-item{
+		float: inherit;
+	}
+	.single_slide_text .s_bg_btn {
+		margin-right: 0;
+	}
+	.single_slide_text h1{
+		font-size: 37px;
+	}
+	.single_slide_text p{
+		font-size: 14px;
+	}
+	.single_slide_text .slider_btn {
+		font-size: 14px;
+		padding: 10px 30px;
+		margin: 12px 5px;
+	}
+	.carousel-control{
+		display: none;
+	}
+	.single_feature{
+		margin-bottom: 30px;
+	}
+	.single_counter{
+		margin-bottom: 30px;
+	}
+	.ris_pb_30{
+		padding-bottom: 30px;
+	}
+	.ris_mb7_30{
+		margin-bottom: 30px;
+	}
+	.ris_pb_70{
+		padding-bottom: 70px;
+	}
+	.our_port_menu {
+		margin: 0 15%;
+		margin-bottom: 50px;
+	}
+	.single_team{
+		margin-bottom: 30px;
+	}
+	.pricingTable{
+        margin-bottom: 30px;
+    }
+	.post-slide{
+		margin-bottom: 30px;
+	}
+	.single_footer{
+		margin-bottom: 30px;
+	}
+}
